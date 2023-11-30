@@ -2,3 +2,4 @@ data/*-*.csv
 *.html
 .vscode/*
 .ipynb_checkpoints/*
+.metals
